@@ -1,4 +1,5 @@
 import React from 'react'
+import { Contact } from './Contact'
 
 export const Home = () => {
   return (
@@ -13,7 +14,8 @@ export const Home = () => {
               </div>
             </div>
           </div>
-
+          
     </section>
+ 
   )
 }
