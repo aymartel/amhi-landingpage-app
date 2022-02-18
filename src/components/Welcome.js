@@ -20,7 +20,7 @@ export const Welcome = () => {
                 <p>
                     {t('title')}
                 </p>
-                <button onClick={changeToEnglish}>Change To English</button>
+                <button className="#footer .footer-top .social-links a" onClick={changeToEnglish}>Change To English</button>
                 <button onClick={changeToSpanish}>Change To Spanish</button>
             </header>
         </div>

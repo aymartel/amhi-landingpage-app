@@ -13,6 +13,8 @@ body {
   color: #444444;
 }
 
+
+
 a {
   text-decoration: none;
   color: #fad91b;
@@ -21,10 +23,11 @@ a {
 a:hover {
   color: #e24d55;
   text-decoration: none;
+  cursor: pointer;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -112,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "Open Sans", sans-serif;
   font-size: 15px;
   font-weight: 500;
   color: #556270;
@@ -137,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: black;
-  background: rgb(165, 162, 138)
+  background: #CCCCCC
 }
 .navbar .dropdown ul {
   display: block;
@@ -289,7 +292,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-color: rgba(63, 73, 83, 0.8);
+  background-color: #fff;
   overflow: hidden;
   position: relative;
 }
@@ -307,7 +310,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .carousel-item::before {
   content: "";
-  background-color: white;
 }
 #hero .carousel-container {
   display: flex;
@@ -323,7 +325,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #hero h2 {
-  color: black;
+  color: white;
   margin-bottom: 20px;
   font-size: 48px;
   font-weight: 700;
@@ -332,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
-  color: black;
+  color: white;
 }
 #hero .carousel-inner .carousel-item {
   transition-property: opacity;
@@ -407,7 +409,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fad91b;
 }
 #hero .btn-get-started:hover {
-  background: #df3740;
+  background: #CCCCCC;
 }
 @media (max-width: 992px) {
   #hero {
@@ -456,7 +458,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: #556270;
   font-family: "Poppins", sans-serif;
 }
 .section-title h2::after {
@@ -464,7 +466,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #e6636a;
+  background: #fad91b;
   margin: 4px 10px;
 }
 .section-title p {
@@ -1793,4 +1795,9 @@ section {
 }
 #footer .credits a:hover {
   color: white;
+}
+
+.img-home-logo{
+  width: 30%;
+  margin-bottom: 10px;
 }

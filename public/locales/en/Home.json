@@ -1,0 +1,27 @@
+{
+	"Brand": "AMH Investments",
+	"BusinessModel": {
+		"BusinessModel": "BUSINESS MODEL",
+		"Efficient": "Efficient",
+		"Productive": "Productive",
+		"Protecting": "Protecting you, your customers, your business",
+		"Reliable": "Reliable",
+		"Safe": "Safe",
+		"Simplicity": "Simplicity and peace of mind",
+		"Tested": "Еested and approved technologies",
+		"Uninterrupted ": "Uninterrupted at all times"
+	},
+	"HSectionAbout": {
+		"Company": "Our company focus in Assets, Management and Hedging conceptions to develop business models that bring sustainable and cost-effective results, determined by:",
+		"Quote": "\"...our deep analysis allows without risk to maximize your assets and get much more from the business\"",
+		"Resilient": "A resilient investment dynamic",
+		"Solutions": "Solutions aligned to our customers' business objectives",
+		"Sustainable": "A sustainable and differentiated approach to the environment and community engagement",
+		"Value": "Value adding, relevant skill sets and capabilities",
+		"Vision": "A World where we can all achieve more while using less"
+	},
+	"HSectionMain": {
+		"Description": "Global specialist at the forefront of innovation in financial models and dynamics in the commodities world market.",
+		"ReadMore": "Read More"
+	}
+}

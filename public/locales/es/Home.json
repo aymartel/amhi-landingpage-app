@@ -1,0 +1,27 @@
+{
+	"Brand": "AMH Inversiones",
+	"BusinessModel": {
+		"BusinessModel": "MODELO DE NEGOCIOS",
+		"Efficient": "Eficiente",
+		"Productive": "Productivo",
+		"Protecting": "Protegiéndote a ti, a tus clientes, a tu negocio",
+		"Reliable": "Confiable",
+		"Safe": "Seguro",
+		"Simplicity": "Ssencillez y tranquilidad",
+		"Tested": "Еecnologías experimentadas y validadas",
+		"Uninterrupted ": "Ininterrumpido en todas sus etapas"
+	},
+	"HSectionAbout": {
+		"Company": "Nuestra empresa se enfoca en las concepciones de Activos, Management y Hedging (cobertura) con el objeto de desarrollar modelos de negocios que generan resultados sostenibles y rentables, determinados por:",
+		"Quote": "\"... nuestros análisis profundos nos permiten maximizar sus activos sin riesgo y obtener mayor rentabilidad de su negocio\"",
+		"Resilient": "Una dinámica de inversión resiliente",
+		"Solutions": "Soluciones alineadas a los objetivos comerciales de nuestros clientes",
+		"Sustainable": "Un enfoque sostenible y diferenciado al medio ambiente con la participación de la comunidad",
+		"Value": "Valor agregado, habilidades y capacidades relevantes",
+		"Vision": "Un mundo en el que todos podamos lograr más utilizando menos"
+	},
+	"HSectionMain": {
+		"Description": "Especialista global a la vanguardia de la innovación en modelos financieros y dinámicas en el mercado mundial de materias primas y equipamiento.",
+		"ReadMore": "Leer Mas"
+	}
+}
