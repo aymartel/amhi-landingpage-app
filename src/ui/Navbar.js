@@ -14,6 +14,7 @@ export const Navbar = () => {
 
     const [n, i18n] = useTranslation(["Navbar"]);
     const [s] = useTranslation(["Services"]);
+    const [a] = useTranslation(["About"]);
 
     function changeToEnglish() {
         i18n.changeLanguage('en');
@@ -76,7 +77,7 @@ export const Navbar = () => {
                                 </li>
                                 <li onClick={() => { setNavMovile(false) }}>
                                     <NavLink to="/about/vision" className={({ isActive }) => isActive ? 'active' : ''}>
-                                        {n('Links.Vision')}
+                                        {a('Vision.Vision')}
                                     </NavLink>
                                 </li>
 

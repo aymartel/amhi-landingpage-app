@@ -1,0 +1,19 @@
+{
+	"Company": {
+		"Address": "Address",
+		"INN": "INN",
+		"KPP": "KPP",
+		"OGRN": "OGRN"
+	},
+	"Vision": {
+		"AMHDescription": "Global specialist at the forefront of innovation in financial models and dynamics in the world market for raw materials and equipment. We provide efficient, economical and ethically sustainable solutions for all kinds of business needs",
+		"Vision": "Vision",
+		"VisionDescription": "A World where we can all achieve more while using less",
+		"WhatDo": "What we do?",
+		"WhatDoDescription": "We promise our customers with products, solutions and services which are:\nAdvanced brokerage of machinery and equipment.\nPhysical commodities trader.\nCorporate financial advisory.",
+		"WhatExperience": "What experience do we have?",
+		"WhatExperienceDescription": "We have been involved in scientific activities for a long time, developing technologies, equipping companies and industries, in parallel receiving professional training and preparation in various fields of finance, business and management. Having received experience and recommendations from the best, it was decided to create an enterprise system for scientific and commercial development.",
+		"WhoAre": "Who we are?",
+		"WhoAreDescription": "Our company was established in 2019 on the basis of international links between professionals from companies in the oil and gas, mining, metallurgical industries of the Eurasian and American continents."
+	}
+}

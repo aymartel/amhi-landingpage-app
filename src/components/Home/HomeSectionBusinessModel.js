@@ -12,7 +12,7 @@ export const HomeSectionBusinessModel = () => {
             <div className="icon-box">
               <i className="bi bi-briefcase"></i>
               <h4>{h('BusinessModel.Reliable')}</h4>
-              <p>{h('BusinessModel.Uninterrupted')}</p>
+              <p>{h('BusinessModel.Uninte')}</p>
             </div>
           </div>
           <div className="col-md-6 mt-4 mt-md-0">

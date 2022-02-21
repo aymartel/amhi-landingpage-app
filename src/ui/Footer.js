@@ -4,7 +4,9 @@ import { NavLink } from 'react-router-dom';
 
 export const Footer = () => {
     const [n] = useTranslation(["Navbar"]);
-    const [f] = useTranslation([ "Footer"]);
+    const [f] = useTranslation(["Footer"]);
+    const [s] = useTranslation(["Services"]);
+    const [a] = useTranslation(["About"]);
 
     return (
         <footer id="footer">
@@ -32,24 +34,24 @@ export const Footer = () => {
                         </div>
 
                         <div className="col-lg-3 col-md-6 footer-links">
-                            <h4>{n('Links.Services')}</h4>
+                            <h4>{s('Services')}</h4>
                             <ul>
-                                <li><i className="bx bx-chevron-right"></i> <NavLink to="/services/advance-broker">{n('Links.AdvancedBroker')}</NavLink></li>
-                                <li><i className="bx bx-chevron-right"></i> <NavLink to="/services/financial-advisor">{n('Links.FinancialAdvisor')}</NavLink></li>
+                                <li><i className="bx bx-chevron-right"></i> <NavLink to="/services/advance-broker">{s('AB.AdvancedBroker')}</NavLink></li>
+                                <li><i className="bx bx-chevron-right"></i> <NavLink to="/services/financial-advisor">{s('FA.FinancialAdvisor')}</NavLink></li>
                             </ul>
                         </div>
 
                         <div className="col-lg-3 col-md-6 footer-links">
-                        <h4>{n('Links.About')}</h4>
+                            <h4>{n('Links.About')}</h4>
                             <ul>
-                                <li><i className="bx bx-chevron-right"></i> <NavLink to="/about/vision">{n('Links.Vision')}</NavLink></li>
+                                <li><i className="bx bx-chevron-right"></i> <NavLink to="/about/vision">{a('Vision.Vision')}</NavLink></li>
                                 <li><i className="bx bx-chevron-right"></i> <NavLink to="/about/company">{n('Links.Company')}</NavLink></li>
                             </ul>
                         </div>
 
                         <div className="col-lg-3 col-md-6 footer-newsletter">
-                        <NavLink to="/contact"><h4>{n('Links.ContactUs')}</h4></NavLink>
-                            
+                            <NavLink to="/contact"><h4>{n('Links.ContactUs')}</h4></NavLink>
+
                         </div>
 
                     </div>
@@ -57,11 +59,11 @@ export const Footer = () => {
             </div>
 
             <div className="container">
-            <div className="copyright">
+                <div className="copyright">
                     &copy; 2022 {n('Brand')} - <strong><span>Andy MC</span></strong>. {f('Copyright')}
                 </div>
-                
-                
+
+
             </div>
         </footer>
     )

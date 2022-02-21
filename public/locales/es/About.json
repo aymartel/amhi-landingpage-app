@@ -1,0 +1,19 @@
+{
+	"Company": {
+		"Address": "Dirección",
+		"INN": "INN",
+		"KPP": "KPP",
+		"OGRN": "OGRN"
+	},
+	"Vision": {
+		"AMHDescription": "Especialista global a la vanguardia de la innovación en modelos financieros y dinámicas en el mercado mundial de materias primas y equipamiento. Aportamos soluciones eficientes, económicas y éticamente sostenibles para todo tipo de necesidades empresariales",
+		"Vision": "Visión",
+		"VisionDescription": "Un mundo en el que todos podamos lograr más utilizando menos",
+		"WhatDo": "¿Qué hacemos?",
+		"WhatDoDescription": "Actualmente, la empresa provee el ciclo completo de servicios, que incluye desarrollo industrial especializado, suministro de equipos, comercialización de materias primas, gestión de la construcción en todos los sectores industriales.\nBrindamos a nuestros clientes productos, soluciones y servicios que son:\nAgente broker de materias primas y dealer de equipamiento y maquinaria; Asesoramiento financiero corporativo",
+		"WhatExperience": "¿Qué experiencia tenemos?",
+		"WhatExperienceDescription": "Hemos estado involucrados en actividades científicas durante mucho tiempo, desarrollando tecnologías, equipando empresas e industrias, paralelamente recibiendo capacitación y preparación profesional en diversos campos de las finanzas, negocios y gestión. Habiendo recibido experiencia y recomendaciones por parte de los mejores, se decidió crear un sistema empresarial para el desarrollo científico y comercial.",
+		"WhoAre": "¿Quiénes somos?",
+		"WhoAreDescription": "Nuestra empresa fue establecida en el año 2019 sobre la base de vínculos internacionales entre profesionales de empresas de las industrias de petróleo y gas, minera, metalúrgica de los continentes euroasiático y americano"
+	}
+}
