@@ -51,12 +51,12 @@ export const Navbar = () => {
                             <ul className={dropdownOpenServices ? 'dropdown-active' : 'dropdown'}>
                                 <li onClick={() => { setNavMovile(false) }}>
                                     <NavLink to="/services/advance-broker" className={({ isActive }) => isActive ? 'active' : ''}>
-                                        {s('AdvancedBroker')}
+                                    {s('AB.AdvancedBroker')}
                                     </NavLink>
                                 </li>
                                 <li onClick={() => { setNavMovile(false) }}>
                                     <NavLink to="/services/financial-advisor" className={({ isActive }) => isActive ? 'active' : ''}>
-                                        {s('FinancialAdvisor')}
+                                        {s('FA.FinancialAdvisor')}
                                     </NavLink>
                                 </li>
 
